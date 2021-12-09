@@ -2,8 +2,8 @@
 Proyecto Practico, usando Bootstrap, Sass y Gulp con Deployment en Netlify
 
 En este proyecto me encuentro practicando el framework de boostrap y personalizando sus componentes mediante SASS.
-Personalizamos las paletas de colores, tipografias y tamaños.
-Creamos un workflow mediante gulp y distintas dependencias.
+Personalizamos las paletas de colores, tipografias y tamaños. Utlizamos los mixins que nos brinda boostrap para la customizacion del mismo.
+Creamos un workflow con javascript mediante gulp y distintas dependencias.
 
 El deployment del sitio se puede ver en la siguiente url: https://podcastfm-practica.netlify.app/
 
